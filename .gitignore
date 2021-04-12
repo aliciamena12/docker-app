@@ -1,1 +1,9 @@
+# Application
+
+web/app/composer.lock
+web/app/vendor/
+data/
+
+# SSL Certs
+etc/ssl/
 *.pem
