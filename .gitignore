@@ -1,7 +1,7 @@
 # Application
 
-web/app/composer.lock
-web/app/vendor/
+src/api/composer.lock
+src/api/vendor/
 data/
 
 # SSL Certs
