@@ -9,12 +9,12 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\Docs\\": "app/"
+            "App\\": "app/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "AppTest\\Docs\\": "test/"
+            "AppTest\\": "test/"
         }
     },
     "minimum-stability": "stable",
